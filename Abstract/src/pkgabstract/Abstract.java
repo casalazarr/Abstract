@@ -18,7 +18,7 @@ public class Abstract {
         // TODO code application logic here
         TransImplementado mitrans=new TransImplementado();
         mitrans.dato=6;
-        System.out.println(mitrans.farenheit2kelvin());
+        System.out.println(mitrans.kelvin2celcius());
         System.out.println(mitrans.grado2radian());
     }
     
